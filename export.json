@@ -1,0 +1,401 @@
+[
+  {
+    "id": 1,
+    "annotations": [
+      {
+        "id": 1,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": { "choices": ["Positive"] },
+            "id": "xjx-koXLQF",
+            "from_name": "sentiment",
+            "to_name": "text",
+            "type": "choices",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2024-07-17T20:37:21.174049Z",
+        "updated_at": "2024-07-17T20:37:21.174083Z",
+        "draft_created_at": "2024-07-17T20:37:11.210808Z",
+        "lead_time": 48.885,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "f96d7d43-2e50-4225-9d83-7be7198590fb",
+        "import_id": null,
+        "last_action": null,
+        "task": 1,
+        "project": 1,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "4387293a-imdb_sentiment_unsupervised.csv",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "Unnamed: 0": 0,
+      "text": "This is just a precious little diamond. The play, the script are excellent. I cant compare this movie with anything else, maybe except the movie \"Leon\" wonderfully played by Jean Reno and Natalie Portman. But... What can I say about this one? This is the best movie Anne Parillaud has ever played in (See please \"Frankie Starlight\", she's speaking English there) to see what I mean. The story of young punk girl Nikita, taken into the depraved world of the secret government forces has been exceptionally over used by Americans. Never mind the \"Point of no return\" and especially the \"La femme Nikita\" TV series. They cannot compare the original believe me! Trash these videos. Buy this one, do not rent it, BUY it. BTW beware of the subtitles of the LA company which \"translate\" the US release. What a disgrace! If you cant understand French, get a dubbed version. But you'll regret later :)",
+      "label": -1
+    },
+    "meta": {},
+    "created_at": "2024-07-17T20:35:37.012132Z",
+    "updated_at": "2024-07-17T20:37:21.217736Z",
+    "inner_id": 1,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 2,
+    "annotations": [
+      {
+        "id": 2,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": { "choices": ["Positive"] },
+            "id": "Z8gO_Xhs7f",
+            "from_name": "sentiment",
+            "to_name": "text",
+            "type": "choices",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2024-07-17T20:39:54.758043Z",
+        "updated_at": "2024-07-17T20:39:54.758083Z",
+        "draft_created_at": "2024-07-17T20:39:52.143021Z",
+        "lead_time": 38.558,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "13c95918-d9d1-4174-a447-335344b7f99c",
+        "import_id": null,
+        "last_action": null,
+        "task": 2,
+        "project": 1,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "4387293a-imdb_sentiment_unsupervised.csv",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "Unnamed: 0": 1,
+      "text": "When I say this is my favourite film of all time, that comment is not to be taken lightly. I probably watch far too many films than is healthy for me, and have loved quite a few of them. I first saw \"La Femme Nikita\" nearly ten years ago, and it still manages to be my absolute favourite. Why?<br /><br />This is more than an incredibly stylish and sexy thriller. Luc Besson's great flair for impeccable direction, fashion, and appropriate usage of music makes this a very watchable film. But it is Anne Parillaud's perfect rendering of a complex character who transforms from a heartless killer into a compassionate, vibrant young woman that makes this film beautiful. I can't keep my eyes off of her when she is on screen.<br /><br />I have seen several of Luc Besson's films including \"Subway\", \"The Professional\", and the irritating \"Fifth Element\", and \"Nikita\" is without a doubt, far superior to any of these. Although this film has tragic elements, it is ultimately extremely hopeful. It is the story of a person who is cruel and merciless, who ultimately comes to realize her own humanity and her own personal power. That, to me is extremely inspiring. If there is hope for Nikita, there is hope for all of us.",
+      "label": -1
+    },
+    "meta": {},
+    "created_at": "2024-07-17T20:35:37.012220Z",
+    "updated_at": "2024-07-17T20:39:54.795006Z",
+    "inner_id": 2,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 3,
+    "annotations": [
+      {
+        "id": 3,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": { "choices": ["Positive"] },
+            "id": "qY9440cQnT",
+            "from_name": "sentiment",
+            "to_name": "text",
+            "type": "choices",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2024-07-17T20:40:06.620518Z",
+        "updated_at": "2024-07-17T20:40:06.620555Z",
+        "draft_created_at": null,
+        "lead_time": 11.498,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "4b9eccd3-da98-4a24-a5d2-87b450944c09",
+        "import_id": null,
+        "last_action": null,
+        "task": 3,
+        "project": 1,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "4387293a-imdb_sentiment_unsupervised.csv",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "Unnamed: 0": 2,
+      "text": "I saw this movie because I am a huge fan of the TV series of the same name starring Roy Dupuis and Pet Wilson. The movie was really good and I saw how the TV show is based on the movie. A few episodes of the TV series came directly from the movie and their similarity was amazing. To keep things short, any fan of the movie has to watch the series and any fan of the series must see the original Nikita.",
+      "label": -1
+    },
+    "meta": {},
+    "created_at": "2024-07-17T20:35:37.012265Z",
+    "updated_at": "2024-07-17T20:40:06.659565Z",
+    "inner_id": 3,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 4,
+    "annotations": [
+      {
+        "id": 4,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": { "choices": ["Negative"] },
+            "id": "ckI5KWuGAG",
+            "from_name": "sentiment",
+            "to_name": "text",
+            "type": "choices",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2024-07-17T20:40:48.984031Z",
+        "updated_at": "2024-07-17T20:40:48.984068Z",
+        "draft_created_at": "2024-07-17T20:40:39.999334Z",
+        "lead_time": 42.038,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "7a89b089-9aea-47bd-9bbe-ff13fea770f8",
+        "import_id": null,
+        "last_action": null,
+        "task": 4,
+        "project": 1,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "4387293a-imdb_sentiment_unsupervised.csv",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "Unnamed: 0": 3,
+      "text": "Being that the only foreign films I usually like star a Japanese person in a rubber suit who crushes little tiny buildings and tanks, I had high hopes for this movie. I thought that this was a movie that wouldn't put me to sleep. WRONG! Starts off with a bang, okay, now she's in training, alright, she's an assassin, I'm still with you, oh, now she's having this moral dilemma and she can't decide if she loves her boyfriend or her controller, zzzzz.... Oh well, back to Gamera!",
+      "label": -1
+    },
+    "meta": {},
+    "created_at": "2024-07-17T20:35:37.012308Z",
+    "updated_at": "2024-07-17T20:40:49.024031Z",
+    "inner_id": 4,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 5,
+    "annotations": [
+      {
+        "id": 5,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": { "choices": ["Negative"] },
+            "id": "gC18jctKaw",
+            "from_name": "sentiment",
+            "to_name": "text",
+            "type": "choices",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2024-07-17T20:43:15.583807Z",
+        "updated_at": "2024-07-17T20:43:15.583913Z",
+        "draft_created_at": null,
+        "lead_time": 13.132,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "27622b78-7ecd-4f82-a116-3237661af3ed",
+        "import_id": null,
+        "last_action": null,
+        "task": 5,
+        "project": 1,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "4387293a-imdb_sentiment_unsupervised.csv",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "Unnamed: 0": 4,
+      "text": "After seeing Point of No Return (a great movie) and being told that the original was better, I was certainly thrilled to see that one of the indie film channels was running La Femme Nikita. Then I saw the movie. Ouch! This was a major let-down.<br /><br />Nikita herself reminds me of Jar Jar Binks more than any other character I've seen recently. She comes across entirely as comic relief. The movie simply has nothing to recommend it besides the core concept of an evil, inhuman character paradoxically learning to be human while training as an assassin, and that concept failed miserably in Nikita due to the poor writing of the title role.",
+      "label": -1
+    },
+    "meta": {},
+    "created_at": "2024-07-17T20:35:37.012350Z",
+    "updated_at": "2024-07-17T20:43:15.646186Z",
+    "inner_id": 5,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 6,
+    "annotations": [
+      {
+        "id": 6,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": { "choices": ["Negative"] },
+            "id": "Bka4thYpUV",
+            "from_name": "sentiment",
+            "to_name": "text",
+            "type": "choices",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2024-07-17T20:43:29.349536Z",
+        "updated_at": "2024-07-17T20:43:29.349628Z",
+        "draft_created_at": "2024-07-17T20:43:29.195252Z",
+        "lead_time": 11.675,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "1c08bc6c-beed-439a-a00c-06cb6e39c3bc",
+        "import_id": null,
+        "last_action": null,
+        "task": 6,
+        "project": 1,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "4387293a-imdb_sentiment_unsupervised.csv",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "Unnamed: 0": 5,
+      "text": "Stylish thriller? Hardly! This French action film from director Luc Besson is more confused and unsure about itself than anything else I have seen recently.<br /><br />The opening action sequence shows some promise, and the following action sequences are good. However they are sadly too few and far between. The drama is dull and erratic, and the characters are generally unlikeable. Anne Parillaud and the support cast are unable to involve the audience emotionally.<br /><br />\"La Femme Nikita\" ends up more like a try hard, B-grade action thriller. Very average!<br /><br />Saturday, April 28, 1991 - Balwyn Cinema",
+      "label": -1
+    },
+    "meta": {},
+    "created_at": "2024-07-17T20:35:37.012391Z",
+    "updated_at": "2024-07-17T20:43:29.411593Z",
+    "inner_id": 6,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 7,
+    "annotations": [
+      {
+        "id": 7,
+        "completed_by": 1,
+        "result": [
+          {
+            "value": { "choices": ["Positive"] },
+            "id": "21RCsnG5e1",
+            "from_name": "sentiment",
+            "to_name": "text",
+            "type": "choices",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2024-07-17T20:44:13.244605Z",
+        "updated_at": "2024-07-17T20:44:13.244665Z",
+        "draft_created_at": null,
+        "lead_time": 41.959,
+        "prediction": {},
+        "result_count": 0,
+        "unique_id": "0bf3413b-e930-4ba2-9911-f5533ab546ee",
+        "import_id": null,
+        "last_action": null,
+        "task": 7,
+        "project": 1,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "4387293a-imdb_sentiment_unsupervised.csv",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "Unnamed: 0": 6,
+      "text": "A Luc Besson (Léon, The Fith Element, The Messenger: The Story of Joan of Arc. Angel-A) film with Anne Parillaud (Innocent Blood), Tchéky Karyo(The Messenger: The Story of Joan of Arc, The Patriot, Kiss of the Dragon) and Jean Reno (Léon , The Crimson Rivers, Godzilla). It doesn't get better than this.<br /><br />The photography by Thierry Arbogast was perfect, especially the blue lighting at the pharmacy scene. It is easy to see why Besson uses him for his films. He is a master.<br /><br />Parillaud was absolutely magnificent in a character that was a strong woman, and a little girl at the same time. She was a profession, but she was also human. To see this instead of the comic book characters we are so familiar with is refreshing.<br /><br />Reno was a perfect cleaner. Hard and professional. Get the mission done.<br /><br />Jean-Hugues Anglade added just the right touch of sensitivity. Outstanding! There are just not enough superlatives to use in describing the acting and action in the film.",
+      "label": -1
+    },
+    "meta": {},
+    "created_at": "2024-07-17T20:35:37.012432Z",
+    "updated_at": "2024-07-17T20:44:13.326193Z",
+    "inner_id": 7,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": 1,
+    "comment_authors": []
+  }
+]
